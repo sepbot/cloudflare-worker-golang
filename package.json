@@ -1,0 +1,13 @@
+{
+  "name": "cloudflare-worker-golang",
+  "private": true,
+  "scripts": {
+    "build": "parcel build --no-source-maps worker.js"
+  },
+  "devDependencies": {
+    "parcel": "2.0.0-nightly.427"
+  },
+  "browserslist": [
+    "last 1 Chrome version"
+  ]
+}

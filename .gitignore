@@ -1,0 +1,8 @@
+.idea/
+.parcel-cache/
+dist/
+node_modules/
+
+.env
+.envrc
+wasm_exec.js

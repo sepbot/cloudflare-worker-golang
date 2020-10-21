@@ -1,0 +1,14 @@
+{
+  "body_part": "script",
+  "bindings": [
+    {
+      "type": "wasm_module",
+      "name": "WASM",
+      "part": "wasm"
+    }, {
+      "type": "secret_text",
+      "name": "PRIVATE_KEY",
+      "text": "PRIVATE_KEY_PLACEHOLDER"
+    }
+  ]
+}
